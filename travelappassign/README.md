@@ -1,6 +1,6 @@
 # travelappassign
 
-A new Flutter project.
+A new Flutter project, created as an assignment.
 
 ## Getting Started
 
